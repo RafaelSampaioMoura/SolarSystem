@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './Header';
 import SolarSystem from './SolarSystem';
 import Title from './Title';
+import Missions from './Missions';
 
 class App extends React.Component {
   render() {
@@ -10,6 +11,7 @@ class App extends React.Component {
         <Header />
         <Title headline='Planetas' />
         <SolarSystem />
+        <Missions />
       </div>
     );
   }
