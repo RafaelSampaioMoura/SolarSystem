@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './Header';
-import SolarSystem from './SolarSystem';
-import Missions from './Missions';
+import Header from './components/Header';
+import SolarSystem from './components/SolarSystem';
+import Missions from './components/Missions';
 
 class App extends React.Component {
   render() {
