@@ -1,13 +1,90 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h1 align="center">Salutations!</h1>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## English
+<details>
+<summary>Click to Expand</summary>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+### About
+<p>A single-page website created in order to practice the basic concepts of React, such as class components and CSS positioning vs vanilla JavaScript.</p>
+
+### Tech & Tools
+<img src="https://img.shields.io/badge/React-%20-yellowgreen" alt="react-shield" />
+
+### Installation & Execution
+<p>If you wish to run this web page on your machine, follow these steps:</p>
+
+<ol>
+
+<li>Make a new directory</li>
+
+```
+mkdir sampaio-projects
+```
+
+<li>Enter it and clone the repo:</li>
+
+```
+cd sampaio-projects
+git clone 
+```
+</ol>
+
+### Troubleshooting
+<ol>
+<li>If you run into compatibility issues with your version of Node, install the Node Version Manager (NVM) from <a href="https://github.com/nvm-sh/nvm">this repo</a> and change your version of Node to 16 with the following command:</li>
+
+```
+nvm use 16
+```
+</ol>
+
+</details>
+
+## Português
+<details>
+<summary>Clique para Expandir</summary>
+
+### Sobre
+<p>Aplicação de uma página feita para praticar conceitos básicos de React, como componentes de classe e as particularidades do CSS em comparação com o JavaScript puro.</p>
+
+### Tech & Ferramentas
+<img src="https://img.shields.io/badge/React-%20-yellowgreen" alt="react-shield" />
+
+### Instalação & Uso
+<p>Se você deseja rodar essa página na sua máquina, siga os seguintes passos:</p>
+
+<ol>
+
+<li>Crie um novo diretório</li>
+
+```
+mkdir sampaio-projects
+```
+
+<li>Entre na pasta e clone o repositório:</li>
+
+```
+cd sampaio-projects
+git clone 
+```
+
+<li>Instale as dependência através do NPM e abra a página:</li>
+
+```
+npm install
+npm start
+```
+
+### Problemáticas
+
+<ol>
+
+<li>Caso o seu PC retorne um erro de incompatibilidade da versão do Node, instale o Node Version Manager (NVM) através <a href="https://github.com/nvm-sh/nvm">desse repositório</a> e mude a versão para 16 com o seguinte comando:</li>
+
+```
+nvm use 16
+```
+</ol>
+
+</ol>
+</details>
