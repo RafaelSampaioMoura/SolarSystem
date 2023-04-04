@@ -74,7 +74,8 @@ git clone
 npm install
 npm start
 ```
-
+</ol>
+  
 ### Problemáticas
 
 <ol>
@@ -84,7 +85,5 @@ npm start
 ```
 nvm use 16
 ```
-</ol>
-
 </ol>
 </details>
